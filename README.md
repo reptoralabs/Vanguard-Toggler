@@ -21,7 +21,7 @@ Then run ```py app.py```
 
 ## I'm not computer savvy, is there an easier way?
 
-Yes, you can download an .exe [here](https://github.com/reptoralabs/Vanguard-Toggler/releases).
+Eventually, you will be able to download it [here](https://github.com/reptoralabs/Vanguard-Toggler/releases). I am currently having trouble building an executable file.
 
 ## How do I use this?
 
