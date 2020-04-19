@@ -9,15 +9,15 @@ Riot's new game, VALORANT, uses an anti-cheat that is always on unless you disab
 
 Install [Python 3](https://www.python.org/download/releases/3.0/)
 
-Intall [pip](https://pip.pypa.io/en/stable/installing/)
+Python 3 should come with pip, you can check with command ```py -m pip``` and if it didn't you can get it [here](https://pip.pypa.io/en/stable/installing/)
 
-Download the source files
+Download the source files and extract them where you want. For example ```C:\path\to\source```
 
-Open powershell and navigate to the downloaded files
+Open powershell/command prompt and navigate to the downloaded files by typing ```cd C:\path\to\source```
 
-Run ```pip install infi.systray pypiwin32```
+Run ```py -m pip install infi.systray pypiwin32```
 
-Then run ```py app.py```
+Then run ```py app.py``` and you will see the new icons in your system tray.
 
 ## I'm not computer savvy, is there an easier way?
 
@@ -38,6 +38,10 @@ Legend:
 ## Why does your code look like ass?
 
 I'm a beginner and copy-paste code from about a dozen different sites.
+
+## How does this work?
+
+If you open your command prompy (Windows Key + R) and enter ```services.msc```, you will see all the services available on your computer that you can enable\disable. This program\script basically provides a shortcut to doing this.
 
 ## Will you keep this update?
 
