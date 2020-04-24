@@ -17,7 +17,7 @@ Open powershell/command prompt and navigate to the downloaded files by typing ``
 
 Run ```py -m pip install infi.systray pypiwin32```
 
-Then run ```py app.py``` and you will see the new icons in your system tray.
+Then double-click the app.pyw file or in cmd/powershell run ```pythonw app.pyw``` and you will see the new icons in your system tray.
 
 ## I'm not computer savvy, is there an easier way?
 
